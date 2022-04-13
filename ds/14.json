@@ -1,1 +1,24 @@
-{"name": "Creature 14", "external_url": "https://raw.githubusercontent.com/AnkyDu77/nft_attributes/master/ds/14.json", "external_link": "https://raw.githubusercontent.com/AnkyDu77/nft_attributes/master/ds/14.json", "image": "https://raw.githubusercontent.com/AnkyDu77/nft_attributes/master/ds/img/14.jpg", "attributes": [{"trait_type": "Max Qty", "value": 1700}]}
+{"name": "Creature 14",
+  "external_url": "https://raw.githubusercontent.com/AnkyDu77/nft_attributes/master/ds/14.json",
+  "external_link": "https://raw.githubusercontent.com/AnkyDu77/nft_attributes/master/ds/14.json",
+  "image": "https://raw.githubusercontent.com/AnkyDu77/nft_attributes/master/ds/img/14.jpg",
+  "attributes": [
+    {
+    "display_type": "number",
+    "trait_type": "Editions",
+    "value": 50
+  },
+  {
+    "trait_type": "Body",
+    "value": "Red"
+  },
+  {
+    "trait_type": "Background",
+    "value": "Green"
+  },
+  {
+    "trait_type": "Rarity",
+    "value": "Super Rare"
+  }
+  ]
+}

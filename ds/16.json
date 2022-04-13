@@ -1,1 +1,25 @@
-{"name": "Creature 16", "external_url": "https://raw.githubusercontent.com/AnkyDu77/nft_attributes/master/ds/16.json", "external_link": "https://raw.githubusercontent.com/AnkyDu77/nft_attributes/master/ds/16.json", "image": "https://raw.githubusercontent.com/AnkyDu77/nft_attributes/master/ds/img/16.jpg", "attributes": [{"trait_type": "Max Qty", "value": 600}]}
+{"name": "Creature 16",
+  "external_url": "https://raw.githubusercontent.com/AnkyDu77/nft_attributes/master/ds/16.json",
+  "external_link": "https://raw.githubusercontent.com/AnkyDu77/nft_attributes/master/ds/16.json",
+  "image": "https://raw.githubusercontent.com/AnkyDu77/nft_attributes/master/ds/img/16.jpg",
+  "attributes": [
+    {
+    "display_type": "number",
+    "trait_type": "Editions",
+    "value": 500
+  },
+  {
+    "trait_type": "Body",
+    "value": "Blue"
+  },
+  {
+    "trait_type": "Background",
+    "value": "Lawn Green"
+  },
+  {
+    "trait_type": "Rarity",
+    "value": "Rare"
+  }
+
+  ]
+}
